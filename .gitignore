@@ -1,0 +1,11 @@
+#Ignore files in .idea directory
+*.csv
+.idea/
+.vscode
+*.csv
+*.pyc
+.DS_Store
+*.xml
+*.log
+.*
+!/.gitignore
